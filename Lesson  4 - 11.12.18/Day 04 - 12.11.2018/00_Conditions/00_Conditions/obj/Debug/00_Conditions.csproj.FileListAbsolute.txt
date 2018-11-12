@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\00_Conditions\00_Conditions\bin\Debug\00_Conditions.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\00_Conditions\00_Conditions\bin\Debug\00_Conditions.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\00_Conditions\00_Conditions\bin\Debug\00_Conditions.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\00_Conditions\00_Conditions\obj\Debug\00_Conditions.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\00_Conditions\00_Conditions\obj\Debug\00_Conditions.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\00_Conditions\00_Conditions\obj\Debug\00_Conditions.pdb

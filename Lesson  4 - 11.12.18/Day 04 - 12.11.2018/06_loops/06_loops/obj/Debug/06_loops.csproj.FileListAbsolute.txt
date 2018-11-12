@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\06_loops\06_loops\bin\Debug\06_loops.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\06_loops\06_loops\bin\Debug\06_loops.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\06_loops\06_loops\bin\Debug\06_loops.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\06_loops\06_loops\obj\Debug\06_loops.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\06_loops\06_loops\obj\Debug\06_loops.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\06_loops\06_loops\obj\Debug\06_loops.pdb

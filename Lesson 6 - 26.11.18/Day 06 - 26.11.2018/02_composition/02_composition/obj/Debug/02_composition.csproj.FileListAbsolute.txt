@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\02_composition\02_composition\bin\Debug\02_composition.exe.config
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\02_composition\02_composition\bin\Debug\02_composition.exe
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\02_composition\02_composition\bin\Debug\02_composition.pdb
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\02_composition\02_composition\obj\Debug\02_composition.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\02_composition\02_composition\obj\Debug\02_composition.exe
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\02_composition\02_composition\obj\Debug\02_composition.pdb

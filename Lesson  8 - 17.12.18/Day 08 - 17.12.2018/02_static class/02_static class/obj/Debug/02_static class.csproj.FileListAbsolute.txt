@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\02_static class\02_static class\bin\Debug\02_static class.exe.config
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\02_static class\02_static class\bin\Debug\02_static class.exe
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\02_static class\02_static class\bin\Debug\02_static class.pdb
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\02_static class\02_static class\obj\Debug\02_static class.exe
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\02_static class\02_static class\obj\Debug\02_static class.pdb

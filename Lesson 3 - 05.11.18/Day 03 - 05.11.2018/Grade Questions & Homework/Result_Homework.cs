@@ -26,13 +26,13 @@ namespace Exercises
                 {
                     if (row == col&& row+col!=num1-1)
                         matrixStr[row][col] = "Main";
-                    if (row + col == num1 - 1 && row!=col)
-                        matrixStr[row][col] = "Sub";
-                    if (row + col == num1 - 1 && row==col)
-                        matrixStr[row][col] = "center";
-                    if (row > col && row + col != num1 - 1)
+                    else if (row + col == num1 - 1 && row!=col)
+                            matrixStr[row][col] = "Sub";
+                    else  if (row + col == num1 - 1 && row==col)
+                            matrixStr[row][col] = "center";
+                    else if (row > col && row + col != num1 - 1)
                         matrixStr[row][col] = "Down";
-                    if (row < col && row + col != num1 - 1)
+                    else  if (row < col && row + col != num1 - 1)
                         matrixStr[row][col] = "Up";
                 }
             }

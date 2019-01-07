@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 09 - 24.12.2018\class task solution\class task solution\bin\Debug\class task solution.exe.config
+C:\Users\Student\Desktop\Day 09 - 24.12.2018\class task solution\class task solution\bin\Debug\class task solution.exe
+C:\Users\Student\Desktop\Day 09 - 24.12.2018\class task solution\class task solution\bin\Debug\class task solution.pdb
+C:\Users\Student\Desktop\Day 09 - 24.12.2018\class task solution\class task solution\obj\Debug\class task solution.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 09 - 24.12.2018\class task solution\class task solution\obj\Debug\class task solution.exe
+C:\Users\Student\Desktop\Day 09 - 24.12.2018\class task solution\class task solution\obj\Debug\class task solution.pdb

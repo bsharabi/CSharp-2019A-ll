@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\00_static\00_static\bin\Debug\00_static.exe.config
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\00_static\00_static\bin\Debug\00_static.exe
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\00_static\00_static\bin\Debug\00_static.pdb
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\00_static\00_static\obj\Debug\00_static.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\00_static\00_static\obj\Debug\00_static.exe
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\00_static\00_static\obj\Debug\00_static.pdb

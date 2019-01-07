@@ -1,0 +1,7 @@
+E:\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson  10 - 31.12.18\New folder\Result\Result\bin\Debug\Result.exe.config
+E:\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson  10 - 31.12.18\New folder\Result\Result\bin\Debug\Result.exe
+E:\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson  10 - 31.12.18\New folder\Result\Result\bin\Debug\Result.pdb
+E:\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson  10 - 31.12.18\New folder\Result\Result\obj\Debug\Result.csprojAssemblyReference.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson  10 - 31.12.18\New folder\Result\Result\obj\Debug\Result.csproj.CoreCompileInputs.cache
+E:\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson  10 - 31.12.18\New folder\Result\Result\obj\Debug\Result.exe
+E:\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson  10 - 31.12.18\New folder\Result\Result\obj\Debug\Result.pdb

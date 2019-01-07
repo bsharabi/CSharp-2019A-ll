@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\01_constructor with parameters\01_constructor with parameters\bin\Debug\01_constructor with parameters.exe.config
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\01_constructor with parameters\01_constructor with parameters\bin\Debug\01_constructor with parameters.exe
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\01_constructor with parameters\01_constructor with parameters\bin\Debug\01_constructor with parameters.pdb
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\01_constructor with parameters\01_constructor with parameters\obj\Debug\01_constructor with parameters.exe
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\01_constructor with parameters\01_constructor with parameters\obj\Debug\01_constructor with parameters.pdb

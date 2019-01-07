@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\03_inheritance\03_inheritance\bin\Debug\03_inheritance.exe.config
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\03_inheritance\03_inheritance\bin\Debug\03_inheritance.exe
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\03_inheritance\03_inheritance\bin\Debug\03_inheritance.pdb
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\03_inheritance\03_inheritance\obj\Debug\03_inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\03_inheritance\03_inheritance\obj\Debug\03_inheritance.exe
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\03_inheritance\03_inheritance\obj\Debug\03_inheritance.pdb

@@ -71,13 +71,13 @@ namespace _11_array_and_ref
         {
 
 
-            Console.WriteLine("-------------ChangeArr1 start--------------");
+            Console.WriteLine("-------------ChangeArr2 start--------------");
             PrintArr(arr);
 
             arr = new int[] { 2, 2, 2 };
 
 
-            Console.WriteLine("-------------ChangeArr1 end--------------");
+            Console.WriteLine("-------------ChangeArr2 end--------------");
             PrintArr(arr);
 
         }

@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\06_DLL\test\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\06_DLL\test\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\06_DLL\test\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\06_DLL\test\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\06_DLL\test\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\00_class task result\00_class task result\bin\Debug\00_class task result.exe.config
+C:\Users\Student\Desktop\00_class task result\00_class task result\bin\Debug\00_class task result.exe
+C:\Users\Student\Desktop\00_class task result\00_class task result\bin\Debug\00_class task result.pdb
+C:\Users\Student\Desktop\00_class task result\00_class task result\obj\Debug\00_class task result.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\00_class task result\00_class task result\obj\Debug\00_class task result.exe
+C:\Users\Student\Desktop\00_class task result\00_class task result\obj\Debug\00_class task result.pdb

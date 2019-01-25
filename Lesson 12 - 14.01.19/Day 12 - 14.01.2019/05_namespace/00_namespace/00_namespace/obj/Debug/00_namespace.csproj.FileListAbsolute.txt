@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\05_namespace\00_namespace\00_namespace\bin\Debug\00_namespace.exe.config
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\05_namespace\00_namespace\00_namespace\bin\Debug\00_namespace.exe
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\05_namespace\00_namespace\00_namespace\bin\Debug\00_namespace.pdb
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\05_namespace\00_namespace\00_namespace\obj\Debug\00_namespace.exe
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\05_namespace\00_namespace\00_namespace\obj\Debug\00_namespace.pdb

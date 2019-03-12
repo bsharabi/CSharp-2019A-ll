@@ -1,4 +1,4 @@
-# C# Course content:
+# C# 
 ***
 ##### Contact mail : anakarpf6@gmail.com
 ***

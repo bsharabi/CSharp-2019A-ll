@@ -1,7 +1,6 @@
 # C# 
 ***
-##### Contact mail : anakarpf6@gmail.com
-***
+
 ## Basic programming
 * Basic input output
     * [print line with `Console.WriteLine`](https://github.com/AnnaKarpf/CSharp-2019A-II/blob/master/Day%2001%20-%2021.10.2018/00_MyFirstSln/MyFirstProj/Program.cs)

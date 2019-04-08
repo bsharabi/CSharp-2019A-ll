@@ -1,0 +1,4 @@
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\06_DLL\example\CarRent\bin\Debug\CarRent.dll
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\06_DLL\example\CarRent\bin\Debug\CarRent.pdb
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\06_DLL\example\CarRent\obj\Debug\CarRent.dll
+C:\Users\Student\Desktop\Day 12 - 14.01.2019\06_DLL\example\CarRent\obj\Debug\CarRent.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\00_constructor\00_constructor\bin\Debug\00_constructor.exe.config
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\00_constructor\00_constructor\bin\Debug\00_constructor.exe
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\00_constructor\00_constructor\bin\Debug\00_constructor.pdb
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\00_constructor\00_constructor\obj\Debug\00_constructor.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\00_constructor\00_constructor\obj\Debug\00_constructor.exe
+C:\Users\Student\Desktop\Day 06 - 26.11.2018\00_constructor\00_constructor\obj\Debug\00_constructor.pdb

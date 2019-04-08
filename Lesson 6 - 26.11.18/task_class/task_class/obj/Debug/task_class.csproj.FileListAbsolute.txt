@@ -1,0 +1,7 @@
+C:\Users\Barak\Desktop\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson 6 - 26.11.18\task_class\task_class\bin\Debug\task_class.exe.config
+C:\Users\Barak\Desktop\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson 6 - 26.11.18\task_class\task_class\bin\Debug\task_class.exe
+C:\Users\Barak\Desktop\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson 6 - 26.11.18\task_class\task_class\bin\Debug\task_class.pdb
+C:\Users\Barak\Desktop\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson 6 - 26.11.18\task_class\task_class\obj\Debug\task_class.csprojAssemblyReference.cache
+C:\Users\Barak\Desktop\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson 6 - 26.11.18\task_class\task_class\obj\Debug\task_class.csproj.CoreCompileInputs.cache
+C:\Users\Barak\Desktop\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson 6 - 26.11.18\task_class\task_class\obj\Debug\task_class.exe
+C:\Users\Barak\Desktop\Barak Computer\Studies\Studies\Year B\Semester A\CSharp-2019A-ll\Lesson 6 - 26.11.18\task_class\task_class\obj\Debug\task_class.pdb

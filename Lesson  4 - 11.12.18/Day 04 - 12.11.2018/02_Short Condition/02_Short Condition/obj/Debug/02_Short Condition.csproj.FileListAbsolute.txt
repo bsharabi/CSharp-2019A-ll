@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\02_Short Condition\02_Short Condition\bin\Debug\02_Short Condition.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\02_Short Condition\02_Short Condition\bin\Debug\02_Short Condition.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\02_Short Condition\02_Short Condition\bin\Debug\02_Short Condition.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\02_Short Condition\02_Short Condition\obj\Debug\02_Short Condition.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\02_Short Condition\02_Short Condition\obj\Debug\02_Short Condition.pdb

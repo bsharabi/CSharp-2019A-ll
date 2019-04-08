@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\readValue\readValue\bin\Debug\readValue.exe.config
+C:\Users\Student\Desktop\readValue\readValue\bin\Debug\readValue.exe
+C:\Users\Student\Desktop\readValue\readValue\bin\Debug\readValue.pdb
+C:\Users\Student\Desktop\readValue\readValue\obj\Debug\readValue.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\readValue\readValue\obj\Debug\readValue.exe
+C:\Users\Student\Desktop\readValue\readValue\obj\Debug\readValue.pdb

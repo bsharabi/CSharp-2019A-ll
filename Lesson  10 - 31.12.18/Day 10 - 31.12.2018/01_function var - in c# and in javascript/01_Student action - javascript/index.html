@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script>
+        class Student {
+            constructor(studentName, subject, subjectReaction) {
+
+
+                //שני משתני מחרוזת
+                this.studentName = studentName;
+                this.subject = subject;
+
+                
+                //לא יודעים מה תהיה התגובה - ידוע שתהיה תגובה
+                //פונקציה שמקבלת מחרוזת ולא מחזירה ערך
+                this.subjectReaction = subjectReaction;
+            }
+        }
+
+   
+        let studentsArray = [
+            new Student("Bob", "Math", (s) => { console.log(`my best subject is: ${s}`); }),
+            new Student("Alice", "Physics", (x) => { alert(`I love ${x}`); })
+        ];
+
+
+        for (let student of studentsArray) {
+            student.subjectReaction(student.subject);
+        }
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

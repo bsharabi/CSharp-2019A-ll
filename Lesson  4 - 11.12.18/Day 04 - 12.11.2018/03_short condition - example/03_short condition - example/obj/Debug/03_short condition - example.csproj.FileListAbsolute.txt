@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\03_short condition - example\03_short condition - example\bin\Debug\03_short condition - example.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\03_short condition - example\03_short condition - example\bin\Debug\03_short condition - example.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\03_short condition - example\03_short condition - example\bin\Debug\03_short condition - example.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\03_short condition - example\03_short condition - example\obj\Debug\03_short condition - example.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\03_short condition - example\03_short condition - example\obj\Debug\03_short condition - example.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\03_short condition - example\03_short condition - example\obj\Debug\03_short condition - example.pdb

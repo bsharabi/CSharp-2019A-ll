@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\13_class and method\13_class and method\bin\Debug\13_class and method.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\13_class and method\13_class and method\bin\Debug\13_class and method.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\13_class and method\13_class and method\bin\Debug\13_class and method.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\13_class and method\13_class and method\obj\Debug\13_class and method.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\13_class and method\13_class and method\obj\Debug\13_class and method.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\13_class and method\13_class and method\obj\Debug\13_class and method.pdb

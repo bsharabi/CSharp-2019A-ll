@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\08_functions\08_functions\bin\Debug\08_functions.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\08_functions\08_functions\bin\Debug\08_functions.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\08_functions\08_functions\bin\Debug\08_functions.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\08_functions\08_functions\obj\Debug\08_functions.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\08_functions\08_functions\obj\Debug\08_functions.pdb

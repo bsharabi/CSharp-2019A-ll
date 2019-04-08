@@ -1,4 +1,4 @@
-# C# 
+# C# Course content:
 ***
 
 ## Basic programming

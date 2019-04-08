@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\10_ref\10_ref\bin\Debug\10_ref.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\10_ref\10_ref\bin\Debug\10_ref.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\10_ref\10_ref\bin\Debug\10_ref.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\10_ref\10_ref\obj\Debug\10_ref.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\10_ref\10_ref\obj\Debug\10_ref.pdb

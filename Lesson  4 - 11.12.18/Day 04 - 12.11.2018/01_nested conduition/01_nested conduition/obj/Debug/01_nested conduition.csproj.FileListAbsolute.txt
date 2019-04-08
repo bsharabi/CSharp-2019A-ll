@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\01_nested conduition\01_nested conduition\bin\Debug\01_nested conduition.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\01_nested conduition\01_nested conduition\bin\Debug\01_nested conduition.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\01_nested conduition\01_nested conduition\bin\Debug\01_nested conduition.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\01_nested conduition\01_nested conduition\obj\Debug\01_nested conduition.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\01_nested conduition\01_nested conduition\obj\Debug\01_nested conduition.pdb

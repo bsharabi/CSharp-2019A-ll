@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\11_array and ref\11_array and ref\bin\Debug\11_array and ref.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\11_array and ref\11_array and ref\bin\Debug\11_array and ref.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\11_array and ref\11_array and ref\bin\Debug\11_array and ref.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\11_array and ref\11_array and ref\obj\Debug\11_array and ref.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\11_array and ref\11_array and ref\obj\Debug\11_array and ref.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\11_array and ref\11_array and ref\obj\Debug\11_array and ref.csprojResolveAssemblyReference.cache

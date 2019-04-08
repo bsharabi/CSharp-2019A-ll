@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\09_ref problem\09_ref problem\bin\Debug\09_ref problem.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\09_ref problem\09_ref problem\bin\Debug\09_ref problem.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\09_ref problem\09_ref problem\bin\Debug\09_ref problem.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\09_ref problem\09_ref problem\obj\Debug\09_ref problem.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\09_ref problem\09_ref problem\obj\Debug\09_ref problem.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\09_ref problem\09_ref problem\obj\Debug\09_ref problem.pdb

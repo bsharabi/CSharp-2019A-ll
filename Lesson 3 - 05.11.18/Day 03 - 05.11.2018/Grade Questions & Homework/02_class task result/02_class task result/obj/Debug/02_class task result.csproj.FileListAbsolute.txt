@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 03 - 05.11.2018\02_class task result\02_class task result\bin\Debug\02_class task result.exe.config
+C:\Users\Student\Desktop\Day 03 - 05.11.2018\02_class task result\02_class task result\bin\Debug\02_class task result.exe
+C:\Users\Student\Desktop\Day 03 - 05.11.2018\02_class task result\02_class task result\bin\Debug\02_class task result.pdb
+C:\Users\Student\Desktop\Day 03 - 05.11.2018\02_class task result\02_class task result\obj\Debug\02_class task result.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 03 - 05.11.2018\02_class task result\02_class task result\obj\Debug\02_class task result.exe
+C:\Users\Student\Desktop\Day 03 - 05.11.2018\02_class task result\02_class task result\obj\Debug\02_class task result.pdb

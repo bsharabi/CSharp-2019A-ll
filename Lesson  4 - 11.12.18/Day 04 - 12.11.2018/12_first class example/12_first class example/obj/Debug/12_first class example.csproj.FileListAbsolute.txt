@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\12_first class example\12_first class example\bin\Debug\12_first class example.exe.config
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\12_first class example\12_first class example\bin\Debug\12_first class example.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\12_first class example\12_first class example\bin\Debug\12_first class example.pdb
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\12_first class example\12_first class example\obj\Debug\12_first class example.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\12_first class example\12_first class example\obj\Debug\12_first class example.exe
+C:\Users\Student\Desktop\Day 04 - 12.11.2018\12_first class example\12_first class example\obj\Debug\12_first class example.pdb

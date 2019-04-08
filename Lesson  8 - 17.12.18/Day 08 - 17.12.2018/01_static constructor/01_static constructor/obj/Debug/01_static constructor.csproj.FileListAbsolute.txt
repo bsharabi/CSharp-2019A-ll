@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\01_static constructor\01_static constructor\bin\Debug\01_static constructor.exe.config
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\01_static constructor\01_static constructor\bin\Debug\01_static constructor.exe
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\01_static constructor\01_static constructor\bin\Debug\01_static constructor.pdb
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\01_static constructor\01_static constructor\obj\Debug\01_static constructor.exe
+C:\Users\Student\Desktop\Day 08 - 17.12.2018\01_static constructor\01_static constructor\obj\Debug\01_static constructor.pdb

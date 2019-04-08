@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Day 07 - 10.12.2018\Q2 - result\Q2 - result\bin\Debug\Q2 - result.exe.config
+C:\Users\Student\Desktop\Day 07 - 10.12.2018\Q2 - result\Q2 - result\bin\Debug\Q2 - result.exe
+C:\Users\Student\Desktop\Day 07 - 10.12.2018\Q2 - result\Q2 - result\bin\Debug\Q2 - result.pdb
+C:\Users\Student\Desktop\Day 07 - 10.12.2018\Q2 - result\Q2 - result\obj\Debug\Q2 - result.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Day 07 - 10.12.2018\Q2 - result\Q2 - result\obj\Debug\Q2 - result.exe
+C:\Users\Student\Desktop\Day 07 - 10.12.2018\Q2 - result\Q2 - result\obj\Debug\Q2 - result.pdb

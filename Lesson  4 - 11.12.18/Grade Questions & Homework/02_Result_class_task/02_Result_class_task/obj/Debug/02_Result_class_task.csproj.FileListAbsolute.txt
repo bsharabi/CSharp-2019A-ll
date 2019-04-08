@@ -1,7 +1,0 @@
-C:\Users\Barak\Desktop\Barak Computer\לימודים\לימודים\שנה ב\סמסטר א\CSharp\Lesson  4 - 11.12.18\02_Result_class_task\02_Result_class_task\bin\Debug\02_Result_class_task.exe.config
-C:\Users\Barak\Desktop\Barak Computer\לימודים\לימודים\שנה ב\סמסטר א\CSharp\Lesson  4 - 11.12.18\02_Result_class_task\02_Result_class_task\bin\Debug\02_Result_class_task.exe
-C:\Users\Barak\Desktop\Barak Computer\לימודים\לימודים\שנה ב\סמסטר א\CSharp\Lesson  4 - 11.12.18\02_Result_class_task\02_Result_class_task\bin\Debug\02_Result_class_task.pdb
-C:\Users\Barak\Desktop\Barak Computer\לימודים\לימודים\שנה ב\סמסטר א\CSharp\Lesson  4 - 11.12.18\02_Result_class_task\02_Result_class_task\obj\Debug\02_Result_class_task.csprojAssemblyReference.cache
-C:\Users\Barak\Desktop\Barak Computer\לימודים\לימודים\שנה ב\סמסטר א\CSharp\Lesson  4 - 11.12.18\02_Result_class_task\02_Result_class_task\obj\Debug\02_Result_class_task.csproj.CoreCompileInputs.cache
-C:\Users\Barak\Desktop\Barak Computer\לימודים\לימודים\שנה ב\סמסטר א\CSharp\Lesson  4 - 11.12.18\02_Result_class_task\02_Result_class_task\obj\Debug\02_Result_class_task.exe
-C:\Users\Barak\Desktop\Barak Computer\לימודים\לימודים\שנה ב\סמסטר א\CSharp\Lesson  4 - 11.12.18\02_Result_class_task\02_Result_class_task\obj\Debug\02_Result_class_task.pdb
